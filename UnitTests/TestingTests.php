@@ -5,19 +5,19 @@ class testingTests
     /**
      * @TestMethod
      */
-    public function shouldSucced()
+    public function shouldSucced() : bool
     {
         return true;
     }
     /**
      * @TestMethod
      */
-    public function shouldFail()
+    public function shouldFail() : bool
     {
         return false;
     }
 
-    public function shouldBeOmitted()
+    public function shouldBeOmitted() : bool
     {
         return false;
     }
