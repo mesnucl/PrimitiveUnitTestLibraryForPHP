@@ -2,7 +2,7 @@
 
 This is at primitive unit test library, created with educational purpose.
 
-##To use:
+## To use:
 
 1. copy the TestRunner directory into the directory that contains classes you 
    wish to test.
@@ -21,5 +21,5 @@ php .\TestRunner\main.php
 (Powershell example)
 
 
-##See also:
+## See also:
 You can also take a look at the included test examples in the UnitTest directory.
